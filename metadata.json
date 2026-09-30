@@ -1,0 +1,6 @@
+{
+  "name": "Northform Digital Studio",
+  "description": "Digital systems built to help Canadian businesses grow. Websites, Shopify, advertising, creative content, SEO, and AI automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
